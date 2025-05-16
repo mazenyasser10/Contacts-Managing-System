@@ -5,10 +5,8 @@
 package contactsmanagingsystem;
 
 import javax.swing.JOptionPane;
-import javax.swing.table.DefaultTableModel;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import javax.swing.JOptionPane;
 /**
  *
  * @author pc
