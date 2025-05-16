@@ -4,20 +4,12 @@
  */
 package contactsmanagingsystem;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.util.Vector;
+
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
-import javax.swing.table.DefaultTableModel;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.sql.DriverManager;
-import java.sql.Statement;
 import java.sql.ResultSet;
-import java.sql.*;
 import javax.swing.table.DefaultTableModel;
 
 
