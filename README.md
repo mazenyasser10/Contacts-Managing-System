@@ -131,7 +131,7 @@ This project is part of the university Ptograming II course, supervised by Dr.Ah
 ### Credits to team members
     Team Member            Responsibility
     
-    1. Mazen Yasser           ​GUI Design
+    1. Mazen Yasser           ​GUI Design & Code
     2. Jana​ M.Badry           Database Integration +Report
     3. Jasmine Ali            DBconnection class+invalidation
     4. Habiba Fekry           GitHub
